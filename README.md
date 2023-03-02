@@ -5,7 +5,7 @@ If you are looking to host a Blazor WASM application on Static Web Apps, but wan
 ## Disclaimer
 * This project is provided under MIT license.
 * This is a proof-of-concept and needs to be further developed and tested.
-* This project may cause conflicts with Static Web Apps' built-in authentication and backend integration. A majority of projects do not require such an approach or sub-path workaround. 
+* This project may cause conflicts with Static Web Apps' built-in authentication and backend integration. A majority of projects should not require such an approach or sub-path workaround. 
 
 ## Getting Started
 
