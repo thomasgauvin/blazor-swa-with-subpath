@@ -1,1 +1,0 @@
-C:\Users\thomasgauvin\Desktop\work\2023\PROJECTS\blazor-swa-with-subpath\bin\Debug\net7.0\publish\web.config

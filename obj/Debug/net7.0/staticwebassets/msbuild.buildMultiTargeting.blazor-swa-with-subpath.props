@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\blazor-swa-with-subpath.props" />
-</Project>

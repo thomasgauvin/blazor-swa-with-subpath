@@ -1,0 +1,9 @@
+{
+    "navigationFallback": {
+      "rewrite": "/app/index.html"
+    },
+    "routes": [{
+        "route": "/",
+        "redirect": "/app/"
+    }]
+}

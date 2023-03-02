@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\blazor-swa-with-subpath.props" />
-</Project>
