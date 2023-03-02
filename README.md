@@ -1,4 +1,4 @@
-# Blazor Static Web Apps with sub-path
+# Blazor WASM Static Web Apps with sub-path
 
 If you are looking to host a Blazor WASM application on Static Web Apps, but want your Blazor hosted with a sub-path, this is an approach to get this working.
 
