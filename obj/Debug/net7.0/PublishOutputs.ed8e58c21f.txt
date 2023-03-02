@@ -1,0 +1,1 @@
+C:\Users\thomasgauvin\Desktop\work\2023\PROJECTS\blazor-swa-with-subpath\pub\web.config
