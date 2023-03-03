@@ -74,6 +74,8 @@ This provides the navigation fallback for the entry-point of the Blazor WASM app
 
 ### Deploy to Static Web Apps with the SWA CLI
 
+Note: This application requires a custom build process (as done above). When deploying to Static Web Apps, the app build must be skipped. Below, we show how to do this with the SWA CLI. If you are considering creating a resource from the Azure Portal, ensure that you skip the app build by following the [Skip building front-end app guide](https://learn.microsoft.com/en-us/azure/static-web-apps/build-configuration?tabs=github-actions#skip-building-front-end-app). 
+
 1. Navigate to the `/publish` directory (`cd ..`).
 2. Deploy the contents of `/publish/wwwroot` using `swa deploy wwwroot`. 
     
